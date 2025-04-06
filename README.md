@@ -35,5 +35,6 @@ Quintana, Leticia. Axiom of Recursive Balance. April 6, 2025. Published in: Symb
 ### License
 
 © 2025 Leticia Quintana  
-This work is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. Published under timestamped GitHub repository. Original author and theorist. No derivative works without attribution.
+This work is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. Published under timestamped GitHub repository. © 2025 Leticia Quintana. All rights reserved. Original author and theorist. No derivative works, including conceptual patterns, encoded weights, machine-learned abstractions, or symbolic systems based on this work, may be created, shared, or applied without clear attribution. This includes but is not limited to the use of ideas, structures, or transformations derived from this repository to train, fine-tune, or guide artificial systems or symbolic architectures. Any use of these concepts in part or in whole must include proper credit to the author and a link to the original source.
+
 
