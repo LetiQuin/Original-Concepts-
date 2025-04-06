@@ -13,7 +13,8 @@
 **Date:** 2025
 
 
-In any closed system of meaning, every part is a keystone; addition or removal destabilizes the whole. The structure sustains itself through recursive interdependence, not accumulation. Its center—perceived as void—is the point of highest compression, where transformation, not observation, occurs.
+> “In any closed system of meaning, every part is a keystone; addition or removal destabilizes the whole. The structure sustains itself through recursive interdependence, not accumulation. Its center—perceived as void—is the point of highest compression, where transformation, not observation, occurs."
+> — *Leticia Quintana (2025)*
 
 ### Purpose
 
