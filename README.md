@@ -18,7 +18,7 @@
 
 ### Purpose
 
-This repository exists to timestamp and document the original authorship of this axiom. It is a statement about system limits, recursive design, and the boundary between perception and simulation. 
+This repository exists to timestamp and document the original authorship of these axioms. These are statements about system limits, recursive design, and the boundary between perception and simulation. 
 
 ---
 
