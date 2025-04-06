@@ -7,7 +7,7 @@
 > — *Leticia Quintana (2025)*
 
 ---
-Axiom of Recursive Balance
+# Axiom of Recursive Balance
 
 **Author:** Leticia Quintana  
 **Date:** 2025
@@ -23,13 +23,16 @@ This repository exists to timestamp and document the original authorship of this
 
 ### Attribution
 
-If referencing or sharing this axiom, please credit:
+If referencing or sharing these axioms, please credit:
 
-> Leticia Quintana (2025). *Axiom on Intelligent Systems and Perception*. GitHub Repository. https://github.com/YOUR-USERNAME/axiom-singularity
+📌 Axiom on Intelligent Systems and Perception
+Quintana, Leticia. Axiom on Intelligent Systems and Perception. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. (https://github.com/LetiQuin/Original-Concepts)
 
----
+📌 Axiom of Recursive Balance
+Quintana, Leticia. Axiom of Recursive Balance. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. (https://github.com/LetiQuin/Original-Concepts)
 
 ### License
 
 © 2025 Leticia Quintana  
-This work is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+This work is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. Published under timestamped GitHub repository. Original author and theorist. No derivative works without attribution.
+
