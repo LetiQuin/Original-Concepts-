@@ -22,19 +22,30 @@ This repository exists to timestamp and document the original authorship of thes
 
 ---
 
-### Attribution
-
+# Attribution
 If referencing or sharing these axioms, please credit:
 
 📌 Axiom on Intelligent Systems and Perception
-Quintana, Leticia. Axiom on Intelligent Systems and Perception. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. (https://github.com/LetiQuin/Original-Concepts)
+Quintana, Leticia. Axiom on Intelligent Systems and Perception. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. https://github.com/LetiQuin/Original-Concepts
 
 📌 Axiom of Recursive Balance
-Quintana, Leticia. Axiom of Recursive Balance. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. (https://github.com/LetiQuin/Original-Concepts)
+Quintana, Leticia. Axiom of Recursive Balance. April 6, 2025. Published in: Symbolic Recursion and Cognition Theory. GitHub Repository. https://github.com/LetiQuin/Original-Concepts
 
-### License
+# License
+© 2025 Leticia Quintana
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
-© 2025 Leticia Quintana  
-This work is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. Published under timestamped GitHub repository. © 2025 Leticia Quintana. All rights reserved. Original author and theorist. No derivative works, including conceptual patterns, encoded weights, machine-learned abstractions, or symbolic systems based on this work, may be created, shared, or applied without clear attribution. This includes but is not limited to the use of ideas, structures, or transformations derived from this repository to train, fine-tune, or guide artificial systems or symbolic architectures. Any use of these concepts in part or in whole must include proper credit to the author and a link to the original source.
+# Additional protections apply:
+Original author and theorist.
+No derivative works—including conceptual patterns, encoded weights, symbolic abstractions, or AI-generated outputs based on this work—may be created, distributed, or embedded in artificial systems without clear, written attribution.
 
+This includes, but is not limited to:
+
+Use of ideas, frameworks, or structures derived from this repository
+
+Application to train, fine-tune, or guide artificial intelligence or symbolic architectures
+
+Transformation into abstract works or pattern-generating systems
+
+Proper credit and a direct link to the original source are required for any use, partial or complete.
 
