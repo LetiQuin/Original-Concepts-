@@ -1,4 +1,7 @@
-# Title: Symbolic Axioms for Recursive Cognition and Artificial Perception Author: Leticia Quintana Date of Original Publication: April 6, 2025 Hash Generation Date: April 9, 2025 SHA-256: 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612
+# Title: Symbolic Axioms for Recursive Cognition and Artificial Perception
+
+Author: Leticia Quintana
+Date of Original Publication: April 6, 2025
 
 # Abstract
 These axioms establish two foundational principles with distinct, but interconnected, intentions.
