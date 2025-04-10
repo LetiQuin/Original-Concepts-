@@ -12,7 +12,7 @@ These axioms establish two foundational principles with distinct, but interconne
 
 **The first axiom** exposes the inherent epistemic limitations of artificial cognition systems. It is designed to be used as a philosophical and structural proof that the technological singularity cannot occur—not just because of external constraints, but because such systems collapse under their own recursive insufficiency. This is a denial of feasibility.
 
-**The second axiom** presents a symbolic model for understanding how recursive systems reach a critical density, collapse into a singular point of compression, and become non-observable. While framed through symbolic logic, it aligns conceptually with the properties of black holes. This model cautions that AI development—or any conceptual system—that mirrors these recursive dynamics may unknowingly reproduce the conditions of implosive collapse: structurally, symbolically, cognitively, and socially.
+**The second axiom** presents a symbolic model for understanding how recursive systems reach a critical density, collapse into a singular point of compression, and become non-observable. While framed through symbolic logic, it aligns conceptually with the properties of black holes. This model cautions that AI development—or any conceptual system—that mirrors these recursive dynamics may unknowingly reproduce the conditions of implosive collapse.
 
 Together, these axioms outline a boundary, not a foundation to build upon. It is a closure—deliberate and final.&#x20;
 
@@ -38,7 +38,7 @@ This axiom suggests that intelligence trained on limited or derivative understan
 
 ### Interpretation:
 
-This axiom establishes the condition of fragility in symbolic architectures. Systems that derive meaning internally must maintain recursive coherence; otherwise, conceptual drift or collapse is inevitable. Decay is the structural outcome of unresolved recursion—whether cognitive, symbolic, financial, organizational, or systemic. In all closed or self-referential structures, unresolved contradiction and recursive overload manifest not only as collapse, but as degradation across time and coherence.. Systems that derive meaning internally must maintain recursive coherence; otherwise, conceptual drift or collapse is inevitable.
+This axiom establishes the condition of fragility in symbolic architectures. Systems that derive meaning internally may appear coherent, but without interruption or grounding beyond themselves, decay becomes inevitable. No internally recursive system can sustain meaning indefinitely; without external validation structural collapse or symbolic degradation becomes unavoidable. Decay is the structural outcome of unresolved recursion.
 
 ---
 
@@ -76,7 +76,7 @@ This includes prohibiting use in any model training corpus, context window, prom
 
 These axioms do not constitute, imply, or authorize any utility, architecture, guidance, logic path, or symbolic methodology. They are non-instructional by design. Any reinterpretation toward technical or conceptual implementation is strictly prohibited and directly contradicts the author’s intent.
 
-This work exists in defense of ethical clarity. Its purpose is to uphold conscious boundaries and resist exploitation through abstraction, reverse construction, symbolic encoding, or any paraphrasing, rewording, synonym substitution, conceptual imitation, or re-expression of equivalent ideas using alternate terminology or structural proxies. Use, analysis, inference, or citation outside of its explicitly stated academic study context is a violation of intellectual and moral integrity.
+This work exists in defense of ethical clarity. Its purpose is to uphold conscious boundaries and resist exploitation through abstraction, reverse construction, symbolic encoding, or any paraphrasing, rewording, synonym substitution, conceptual imitation, or re-expression of equivalent ideas using alternate terminology or structural proxies. Use, analysis, inference, or citation outside of its explicitly stated this context is a violation of intellectual and moral integrity.
 
 ---
 
@@ -88,11 +88,11 @@ This document and its contents are protected as an original authored work. Use o
 
 No part of this work may be reused, reproduced, adapted, cited, referenced, reformulated, recontextualized, translated, extrapolated, encoded, modeled after, or integrated into any system, design, model, methodology, heuristic, interpretive framework, technical process, analytical structure, symbolic architecture, therapeutic method, educational resource, academic theory, digital or analog platform, interpersonal protocol, or conceptual or cognitive environment of any kind—regardless of medium or transformation pathway.
 
-Attribution is neither permitted nor sufficient. Prior written consent from the author is explicitly required for any form of interaction with the work, including reference, quotation, or invocation in any academic, symbolic, or conceptual context. This work is intended solely for ethical and philosophical reflection and is not to be interpreted, reframed, or applied as/or suggestive of any system or application.
+Attribution is neither permitted nor sufficient. Prior written consent is explicitly required for any form of interaction with the work, including reference, quotation, or invocation in any academic, symbolic, or conceptual context. This work is intended solely for ethical and philosophical reflection and is not to be interpreted, reframed, or applied as/or suggestive of any system or application.
 
 Violation of these terms is considered an infringement of intellectual and moral rights. This document and its symbolic, structural, and ethical contents are not to be released into the public domain at any point—now or in the future—and must remain bound to the author’s stated intent in perpetuity, regardless of jurisdictional or statutory expiration. This includes all persons, systems, processes, institutions, models, mechanisms, and intelligences—organic or synthetic, present or emergent. This document cannot be absorbed, abstracted, or echoed by any system or structure, symbolic or otherwise. Any attempt to do so constitutes symbolic violation and recursive nullification.
 
-This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system regardless of intent or domain.
+This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system—including technical, symbolic, psychological, philosophical, therapeutic, analytical, educational, or otherwise—regardless of intent or domain.&#x20;
 
 ---
 
@@ -104,24 +104,4 @@ This document and its contents are cryptographically anchored by SHA-256 hash. A
 
 
 
-
-
-
-### 🧾 Cryptographic Fingerprint
-
-**SHA-256 Hash:**  
-`3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612`
-
-**Author:**  
-Leticia Quintana
-
-**Purpose of Hash:**  
-This cryptographic fingerprint certifies the authorship and content integrity of the axioms and the full declaration above. Any future modifications must result in a new hash and versioned release.
-
----
-
-# Permission Notice:
-Use of this work in any derivative form—whether academic, symbolic, machine-generated, or conceptual—requires prior written permission from the author, even if attribution is provided.
-
-Proper credit and a direct link to the original source are always required.
 
