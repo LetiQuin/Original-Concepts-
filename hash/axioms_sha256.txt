@@ -6,7 +6,9 @@ Author: Leticia Quintana
 Original Publication Date: April 6, 2025  
 Hash Generation Date: April 9, 2025  
 SHA-256: 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612  
-
+/hash/v2.0.txt
+Hash Generation Date: April 10, 2025  
+SHA-256: 3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732
 Purpose:  
 This SHA-256 hash certifies the authorship and integrity of the original axioms as published on April 6, 2025.  
 It serves as a cryptographic timestamp confirming that the content has not been modified since its original release.  
