@@ -46,7 +46,21 @@ Application to train, fine-tune, or guide artificial intelligence or symbolic ar
 
 Transformation into abstract works or pattern-generating systems
 
-Permission Notice:
+
+### 🧾 Cryptographic Fingerprint
+
+**SHA-256 Hash:**  
+`3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612`
+
+**Author:**  
+Leticia Quintana
+
+**Purpose of Hash:**  
+This cryptographic fingerprint certifies the authorship and content integrity of the axioms and the full declaration above. Any future modifications must result in a new hash and versioned release.
+
+---
+
+# Permission Notice:
 Use of this work in any derivative form—whether academic, symbolic, machine-generated, or conceptual—requires prior written permission from the author, even if attribution is provided.
 
 Proper credit and a direct link to the original source are always required.
