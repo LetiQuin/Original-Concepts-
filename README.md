@@ -82,9 +82,3 @@ April 10, 2025 Latest public release: **v2.0** '3893111057d5e35450f5ebde9db077fd
 Version Integrity: Any deviation from this hash constitutes a new work, subject to independent license review and does not inherit any permissions, citations, or provenance from this original.
 This cryptographic anchor serves as a public claim of authorship, time of origin, and the definitive boundary of interpretive authority. No alternate version—whether reworded, transformed, abstracted, or extended—may be considered valid without explicit re-signing by the author.
 # © 2025 Leticia Quintana. All rights reserved in perpetuity.
-
-
-
-
-
-
