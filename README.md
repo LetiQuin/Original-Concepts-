@@ -92,7 +92,7 @@ Attribution is neither permitted nor sufficient. Prior written consent is explic
 
 Violation of these terms is considered an infringement of intellectual and moral rights. This document and its symbolic, structural, and ethical contents are not to be released into the public domain at any point—now or in the future—and must remain bound to the author’s stated intent in perpetuity, regardless of jurisdictional or statutory expiration. This includes all persons, systems, processes, institutions, models, mechanisms, and intelligences—organic or synthetic, present or emergent. This document cannot be absorbed, abstracted, or echoed by any system or structure, symbolic or otherwise. Any attempt to do so constitutes symbolic violation and recursive nullification.
 
-This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system—including technical, symbolic, psychological, philosophical, therapeutic, analytical, educational, or otherwise—regardless of intent or domain.&#x20;
+This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system regardless of intent or domain.&#x20;
 
 ---
 
