@@ -1,7 +1,7 @@
 # Title: Symbolic Axioms for Recursive Cognition and Artificial Perception
 
 Author: Leticia Quintana
-Date of Original Publication: April 6, 2025
+Date of Original Publication: April 4, 2025
 
 # Abstract
 These axioms establish two foundational principles with distinct, but interconnected, intentions.
@@ -71,10 +71,12 @@ Define and enforce the boundaries of authorship, provenance, and usage
 No access, citation, reproduction, retention, or derivative claim may supersede the author’s full and perpetual control over the meaning, use, or structure of this work.
 
 # To ensure verifiability and tamper detection, this document is cryptographically anchored using SHA-256 hashing. Any modification—no matter how minor—renders a distinct hash and invalidates all derivative claims to integrity or authorship.
+First Published: April 4, 2025
+Verified via GitHub traffic log and commit metadata
 April 6, 2025 — Original Release on GitHub
 April 9, 2025 — First Cryptographic Anchor 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612
 April 10, 2025 Latest public release: **v2.0** '3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732`  
-[Provenance Record →](./Provenance%20Record.md)  
+[Provenance Record →](./ProvenanceRecord.md)  
 [hash/hashes.txt →](./hash/hashes.txt)
 
 
