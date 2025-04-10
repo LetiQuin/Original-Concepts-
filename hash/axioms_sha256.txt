@@ -15,6 +15,11 @@ Purpose:
 This SHA-256 hash certifies the authorship and integrity of the original axioms as published on April 6, 2025.  
 It serves as a cryptographic timestamp confirming that the content has not been modified since its original release.  
 Any future changes to the text will require a new version and new hash.
+Hash Generation Date: April 10, 2025 — v2.1 Public Release
+SHA-256: df31cf5b433afd5194faad9473723ef1d18ff83554cde0c59f9bdb2eaea98e9d
+This version updated the date to reflect first publication date correction from April 6 to April 4, 2025 on README.md and ProvenanceRecord.md
+Verified via GitHub traffic log and commit metadata.View Release
+
 
 © 2025 Leticia Quintana. All rights reserved.
 
