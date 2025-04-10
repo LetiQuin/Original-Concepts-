@@ -58,9 +58,9 @@ These axioms reflect themes explored by foundational figures in logic and cognit
 
 - **Kurt Gödel's incompleteness theorems** assert that no closed formal system can prove all truths about itself.
 
+- Symbolic decay is not metaphorical—it is structural. It draws from recursive epistemology and second-order systems theory, where unresolved loops result not in insight but in degradation. Decay is the structural outcome of unresolved recursion.
 
-
-- \*\*Symbolic decay is not metaphorical—it is structural. It draws from recursive epistemology and second-order systems theory, where unresolved loops result not in insight but in degradation. Decay is the structural outcome of unresolved recursion.\*\*Ethical Grounding
+### **Ethical Grounding**
 
 These axioms are rooted in a commitment to ethical clarity, epistemic restraint, and symbolic responsibility. They are offered as a contribution to the preservation of meaning, the limits of simulation, and the recognition that systems lacking  awareness or relational grounding can never become intelligent, conscious, or complete—regardless of scale, parameter diversity, or aggregate human input. Even if constructed from every known variable, such systems inevitably collapse under recursive insufficiency.
 
@@ -100,7 +100,10 @@ This work may not be used in the development, construction, structuring, adaptat
 
 This document and its contents are cryptographically anchored by SHA-256 hash. Any modifications must result in a new hash and versioned release.
 
-**SHA-256:** 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612
+**SHA-256:** 
+3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612
+
+407e988d5bd782d66e8dc9bf6da7c66b28fca4c8b45e9bcb7eecc827aef87ae2
 
 
 
