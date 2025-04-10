@@ -88,11 +88,11 @@ This document and its contents are protected as an original authored work. Use o
 
 No part of this work may be reused, reproduced, adapted, cited, referenced, reformulated, recontextualized, translated, extrapolated, encoded, modeled after, or integrated into any system, design, model, methodology, heuristic, interpretive framework, technical process, analytical structure, symbolic architecture, therapeutic method, educational resource, academic theory, digital or analog platform, interpersonal protocol, or conceptual or cognitive environment of any kind—regardless of medium or transformation pathway.
 
-Attribution is neither permitted nor sufficient. Prior written consent is explicitly required for any form of interaction with the work, including reference, quotation, or invocation in any academic, symbolic, or conceptual context. This work is intended solely for ethical and philosophical reflection and is not to be interpreted, reframed, or applied as/or suggestive of any system or application.
+Attribution is neither permitted nor sufficient. Prior written consent from the author is explicitly required for any form of interaction with the work, including reference, quotation, or invocation in any academic, symbolic, or conceptual context. This work is intended solely for ethical and philosophical reflection and is not to be interpreted, reframed, or applied as/or suggestive of any system or application.
 
 Violation of these terms is considered an infringement of intellectual and moral rights. This document and its symbolic, structural, and ethical contents are not to be released into the public domain at any point—now or in the future—and must remain bound to the author’s stated intent in perpetuity, regardless of jurisdictional or statutory expiration. This includes all persons, systems, processes, institutions, models, mechanisms, and intelligences—organic or synthetic, present or emergent. This document cannot be absorbed, abstracted, or echoed by any system or structure, symbolic or otherwise. Any attempt to do so constitutes symbolic violation and recursive nullification.
 
-This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system—including technical, symbolic, psychological, philosophical, therapeutic, analytical, educational, or otherwise—regardless of intent or domain.&#x20;
+This work may not be used in the development, construction, structuring, adaptation, or inspiration of any framework or applied system regardless of intent or domain.
 
 ---
 
