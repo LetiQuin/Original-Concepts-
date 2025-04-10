@@ -10,15 +10,19 @@ Initial publication of the work.
 
 April 9, 2025 — v1.0 Cryptographic Anchor
 
-SHA-256: 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612Originally published in a standalone hash file and later backed by GitHub repository release.View Release
+SHA-256: 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612 
+Originally published in a standalone hash file and later backed by GitHub repository release.View Release
 
 April 10, 2025 — v2.0 Public Release
 
-SHA-256: 3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732This version corresponds to the first formal Provenance Record.View Release
+SHA-256: 3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732
+This version corresponds to the first formal Provenance Record.View Release
 
 April 10, 2025 — v2.1 Public Release
 
 SHA-256: df31cf5b433afd5194faad9473723ef1d18ff83554cde0c59f9bdb2eaea98e9d
+This version updated the date to reflect first publication date correction from April 6 to April 4, 2025
+Verified via GitHub traffic log and commit metadata.View Release
 
 
 Authorship
