@@ -74,9 +74,11 @@ First Published: April 4, 2025
 Verified via GitHub traffic log and commit metadata
 April 6, 2025 — Original Release on GitHub
 April 9, 2025 — First Cryptographic Anchor 3bf05d5e8a98ac79ab8ef6cabf69404aa4af920e81138b4adb9b34edf1cbf612
-April 10, 2025 Latest public release: **v2.0** '3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732`  
+April 10, 2025 Latest public release: **v2.0** '3893111057d5e35450f5ebde9db077fd017b51edc6d8b8fb6b8c37f418fa2732`
+April 10, 2025 Latest public release: **v2.1** 'b0d6f7cd46f0f49bb49db3e8213c237f485b82766e7f011edb39c1d8341d922c`  
 [[Provenance Record →][https://github.com/LetiQuin/Original-Concepts-/blob/main/Provenance%20Record]
 [hash/hashes.txt →](https://github.com/LetiQuin/Original-Concepts-/blob/main/hash/axioms_sha256.txt)
+
 
 
 Version Integrity: Any deviation from this hash constitutes a new work, subject to independent license review and does not inherit any permissions, citations, or provenance from this original.
